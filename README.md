@@ -9,7 +9,7 @@ The design focuses on a smooth user experience with a well-structured layout for
 ## 🖌️ Design Highlights  
 ✅ **Original and unique design** inspired by my own vision  
 ✅ **Built entirely with Flutter**  
-✅ **optimized for target devices**
+✅ **optimized for target devices**  
 ✅ **Clean layout and well-balanced colors for better usability**  
 
 ## 🎯 Technologies Used  
